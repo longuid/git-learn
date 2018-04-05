@@ -10,4 +10,6 @@ export default new Router([{
     path: '/detail'
 }, {
     path: '/edit'
+}, {
+    path: 'list'
 }])
