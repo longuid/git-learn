@@ -11,5 +11,5 @@ export default new Router([{
 }, {
     path: '/edit'
 }, {
-    path: 'list'
+    path: '/banner/edit/:id'
 }])

@@ -12,7 +12,10 @@ export default {
         })
     },
 
-    fetch () {
-        return fetch(url)
+    update (id, data) {
+        return fetch(url, {
+            method: 'post',
+            data: JSON.stringify(data)
+        })
     }
 }
