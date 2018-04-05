@@ -14,5 +14,9 @@ export default {
 
     fetch () {
         return fetch(url)
+    },
+
+    login () {
+        return fetch(url)
     }
 }
