@@ -13,6 +13,8 @@ export default {
     },
 
     fetch () {
-        return fetch(url)
+        return fetch(url, {
+            method: 'get'
+        })
     }
 }
