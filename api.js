@@ -12,5 +12,7 @@ export default {
         })
     },
 
-    trigger3 () {}
+    trigger3 () {},
+
+    trigger3update () {}
 }
