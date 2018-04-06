@@ -12,7 +12,5 @@ export default {
         })
     },
 
-    fetch () {
-        return fetch()
-    }
+    trigger3 () {}
 }
