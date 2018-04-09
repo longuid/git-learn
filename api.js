@@ -10,9 +10,5 @@ export default {
             method: 'post',
             data: JSON.stringify(data)
         })
-    },
-
-    trigger3 () {},
-
-    trigger3update () {}
+    }
 }
