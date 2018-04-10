@@ -15,7 +15,7 @@ export default {
     fetch () {},
 
     k () {
-        return 30
+        return 50
     }
 }
 
