@@ -13,7 +13,7 @@ export default {
     },
 
     k () {
-        return 1
+        return 10
     }
 }
 
