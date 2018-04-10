@@ -10,6 +10,10 @@ export default {
             method: 'post',
             data: JSON.stringify(data)
         })
+    },
+
+    k () {
+        return 1
     }
 }
 
