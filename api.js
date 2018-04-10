@@ -12,6 +12,8 @@ export default {
         })
     },
 
+    fetch () {},
+
     k () {
         return 50
     }
