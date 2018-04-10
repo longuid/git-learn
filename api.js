@@ -1,18 +1,7 @@
-const url = '/api'
+const url = '/api';
 
 export default {
-    get (id) {
-        return fetch(url)
-    },
-
-    post (id, data) {
-        return fetch(url, {
-            method: 'post',
-            data: JSON.stringify(data)
-        })
-    },
-
-    trigger3 () {},
-
-    trigger3update () {}
+    dev () {}
 }
+
+console.log(1.0);
