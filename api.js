@@ -13,7 +13,7 @@ export default {
     },
 
     k () {
-        return 11
+        return 50
     }
 }
 
