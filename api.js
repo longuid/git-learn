@@ -1,4 +1,4 @@
-const url = '/api'
+const url = '/api';
 
 export default {
     get (id) {
@@ -12,5 +12,9 @@ export default {
         })
     },
 
-    b () {}
+    k () {
+        return 1
+    }
 }
+
+console.log(1.0);
