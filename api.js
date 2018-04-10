@@ -1,4 +1,4 @@
-const url = '/api'
+const url = '/api';
 
 export default {
     get (id) {
@@ -10,7 +10,7 @@ export default {
             method: 'post',
             data: JSON.stringify(data)
         })
-    },
-
-    b () {}
+    }
 }
+
+console.log(1.0);
