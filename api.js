@@ -2,5 +2,5 @@ const url = '/api';
 
 export default {
     dev () {},
-    dev1 () {}
+    a3 () {}
 }
